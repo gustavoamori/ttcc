@@ -1,0 +1,7 @@
+O racismo tenta estabelecer uma visão hierarquica entre as raças.
+
+cores : #D8D4C9
+        #B28E6c
+        #846F5E
+        #9D7166
+
